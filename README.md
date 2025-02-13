@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TpPuPlOR98VOgVU_gxSzfTVo8TIWJClD/view?usp=sharing)
 
+- ⚡ Fun fact **I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vruthvikyadav1348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vruthvikyadav1348" height="30" width="40" /></a>
@@ -28,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vruthvik48&show_icons=true&locale=en&layout=compact" alt="vruthvik48" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vruthvik48&show_icons=true&locale=en" alt="vruthvik48" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vruthvik48&" alt="vruthvik48" /></p>
