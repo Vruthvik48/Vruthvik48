@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vruthvikyadav1348@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OqyBYFzu69-AmI1xUaSREmv3bQeGm5FD/view?usp=drive_link](https://drive.google.com/file/d/1OqyBYFzu69-AmI1xUaSREmv3bQeGm5FD/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TpPuPlOR98VOgVU_gxSzfTVo8TIWJClD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
